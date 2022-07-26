@@ -3,7 +3,7 @@
 </script>
 <div class="row text-center mt-5 cover text-light">
 <div class="col-md-12 p-3 p-md-5 text-center mt-5">
-<img class="img-fluid" alt={data.title} src={data.nla}/>
+<img class="img-fluid" width="300" height="80" alt={data.title} src={data.nla}/>
 </div>
 <div class="col-md-2 col-6 p-3 p-md-5">
 <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-airplane-fill" viewBox="0 0 16 16">

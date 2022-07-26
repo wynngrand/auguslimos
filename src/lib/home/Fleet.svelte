@@ -10,7 +10,7 @@
 <div class="col-md-4 p-3">
 <div class="card p-1">
 <h3 class="card header p-1 black text-white text-center"><a href="/" class="text-white">{data.car1}</a></h3>
-<img class="img-fluid" alt={data.car1} src={data.car1img}/>
+<img class="img-fluid" width="400" height="400" alt={data.car1} src={data.car1img}/>
 <div class="card-content p-3">
 <p>{data.car1text1} <br/> {data.car1text2}</p>
 <div class="card-footer row">
@@ -33,7 +33,7 @@
 <div class="col-md-4 p-3">
 <div class="card p-1">
 <h3 class="card header p-1 black text-white text-center"><a href="/" class="text-white">{data.car2}</a></h3>
-<img class="img-fluid" alt={data.car2} src={data.car2img}/>
+<img class="img-fluid" width="400" height="400" alt={data.car2} src={data.car2img}/>
 <div class="card-content p-3">
 <p>{data.car2text1} <br/> {data.car2text2}</p>
 <div class="card-footer row">
@@ -56,7 +56,7 @@
 <div class="col-md-4 p-3">
 <div class="card p-1">
 <h3 class="card header p-1 black text-white text-center"><a href="/" class="text-white">{data.car3}</a></h3>
-<img class="img-fluid" alt={data.car3} src={data.car3img}/>
+<img class="img-fluid" width="400" height="400" alt={data.car3} src={data.car3img}/>
 <div class="card-content p-3">
 <p>{data.car3text1} <br/> {data.car3text2}</p>
 <div class="card-footer row">
@@ -79,7 +79,7 @@
 <div class="col-md-4 p-3">
 <div class="card p-1">
 <h3 class="card header p-1 black text-white text-center"><a href="/" class="text-white">{data.car4}</a></h3>
-<img class="img-fluid" alt={data.car4} src={data.car4img}/>
+<img class="img-fluid" width="400" height="400" alt={data.car4} src={data.car4img}/>
 <div class="card-content p-3">
 <p>{data.car4text1} <br/> {data.car4text2}</p>
 <div class="card-footer row">
@@ -102,7 +102,7 @@
 <div class="col-md-4 p-3">
 <div class="card p-1">
 <h3 class="card header p-1 black text-white text-center"><a href="/" class="text-white">{data.car5}</a></h3>
-<img class="img-fluid" alt={data.car5} src={data.car5img}/>
+<img class="img-fluid" width="400" height="400" alt={data.car5} src={data.car5img}/>
 <div class="card-content p-3">
 <p>{data.car5text1} <br/> {data.car5text2}</p>
 <div class="card-footer row">
@@ -125,7 +125,7 @@
 <div class="col-md-4 p-3">
 <div class="card p-1">
 <h3 class="card header p-1 black text-white text-center"><a href="/" class="text-white">{data.car6}</a></h3>
-<img class="img-fluid" alt={data.car6} src={data.car6img}/>
+<img class="img-fluid" width="400" height="400" alt={data.car6} src={data.car6img}/>
 <div class="card-content p-3">
 <p>{data.car6text1} <br/> {data.car6text2}</p>
 <div class="card-footer row">

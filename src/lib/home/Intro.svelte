@@ -25,7 +25,7 @@
 </p>
 </div>
 <div class="col-md-4 p-3">
-<img class="img-fluid" alt={data.title} src={data.sectionimage}/>
+<img class="img-fluid" width="400" height="400" alt={data.title} src={data.sectionimage}/>
 </div>
 <div class="col-md-4 p-3 p-md-5">
 <h3><a href="/" class="text-light">{data.section1a}</a></h3>
