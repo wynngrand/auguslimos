@@ -15,18 +15,18 @@ export async function GET() {
       >
 
     <url>
-  <loc>https://mesinkasir.pages.dev/</loc>
+  <loc>https://augustalimousine.vercel.app/</loc>
   <lastmod>2022-07-18T05:17:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
 <url>
-  <loc>https://mesinkasir.pages.dev/demo</loc>
+  <loc>https://augustalimousine.vercel.app/book</loc>
   <lastmod>2022-07-18T05:17:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://mesinkasir.pages.dev/download</loc>
+  <loc>https://augustalimousine.vercel.app/contact</loc>
   <lastmod>2022-07-18T05:17:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>

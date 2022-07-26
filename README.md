@@ -1,3 +1,2 @@
-# sveltekit-simple-akr2gc
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sveltekit-simple-akr2gc)
+Develope by
+[https://www.fiverr.com/creativitas](https://www.fiverr.com/creativitas)
