@@ -1,8 +1,8 @@
 {
 	"title": "Augusta Limousine",
 	"desc": "Car and Limousine Service - Augusta GA , Exceptional Car Service is provided to all locations in Georgia.",
-	"btn": "Fleet Gallery",
-	"btnlink": "#fleet",
+	"btn": "Book Now",
+	"btnlink": "/book",
 	"image": "https://wynngrand.github.io/img/Chrysler-300-Limousine.webp",
 	"section1": "Limousine Car Service Augusta",
 	"list1": "New and Late Model Professionally Chauffeured Vehicles",
