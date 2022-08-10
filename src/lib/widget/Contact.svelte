@@ -62,6 +62,6 @@
 <h3 class="display-4"><a href="/" class="text-light">{data.footer}</a></h3>	
 </div>
 <footer class="text-center">
-	<p>The Power of <a class="text-white" href="https://limousineseo.vercel.app">Limousine SEO</a></p>
+	<p>The Power of <a class="text-white" target="_blank" href="https://limousineseo.vercel.app">Limousine SEO</a></p>
 </footer>
 </div>
