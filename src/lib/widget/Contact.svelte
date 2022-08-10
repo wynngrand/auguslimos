@@ -59,9 +59,9 @@
 
 </div>
 <div class="col-md-8 col-12 p-3 p-md-5 text-end">
-<h3 class="display-4"><a href="/" class="text-light">{data.footer}</a></h3>	<p><small>built with <a href="https://kit.svelte.dev">Sveltekit</a> Repo On <a href="https://github.com">Github</a> Deploy on <a href="https://vercel.com">Vercel</a> Developer <a href="https://www.fiverr.com/creativitas">Creativitas</a></small></p>
+<h3 class="display-4"><a href="/" class="text-light">{data.footer}</a></h3>	
 </div>
 <footer class="text-center">
-	<p><a class="btn btn-primary text-white" href="https://www.fiverr.com/creativitas/create-your-website-with-new-technology">Create Website</a></p>
+	<p>The Power of <a class="text-white" href="https://limousineseo.vercel.app">Limousine SEO</a></p>
 </footer>
 </div>
