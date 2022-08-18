@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-			 <title>{data.title}</title> 
+			 <title>{data.titlecontact}</title> 
 <meta content={data.titlecontact} property='og:title'/>
 <meta content={data.titlecontact} name='facebook:title'/>
 <meta content={data.titlecontact} name='twitter:title'/>
@@ -31,7 +31,7 @@
 </svelte:head>
 <Intro/>
 <div class="col-md-12 p-3 text-center">
-<h1>{data.contact}</h1>
+<h1>{data.titlecontact}</h1>
 </div>
      <div class="col-md-6 offset-md-3 p-3 p-md-5 mt-3" id="book">
        <div class="ratio ratio-16x9">
