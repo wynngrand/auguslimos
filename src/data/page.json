@@ -1,24 +1,6 @@
 {
-  "title": "Augusta Limo Car Online",
-  "desc": "Augusta Limo Car Service Augusta, GA",
-  "contact": "Contact Augusta Limousine",
-  "content": "\\\\",
-  "android": "Android",
-  "register": "Cash Register",
-  "retail": "Mesin Kasir Retail Toko Minimarket",
-  "resto": "Mesin Kasir Restoran Cafe Rumah Makan",
-  "pos": "ALL IN ONE POS TOUCHSCREEN",
-  "poss": "pos",
-  "bonus": "Perbedaan mesin kasir offline dan online",
-  "androidvideo": "lhYlIj2ftMc",
-  "posvideo": "NLxDbnyQ4r4",
-  "registervideo": "uW3Z7-b3MPw",
-  "retailvideo": "x7fLl8QzjU8",
-  "restovideo": "gGZcHO32mh4",
-  "bonusvideo": "hLjAOcPVz0w",
-  "downloadurl": "/download",
-  "download": "Download Mesin kasir E-Catalog",
-  "downloaddesc": "Mesin kasir touchscreen POS all in one",
-  "downloadbtn": "Download Now",
-  "downloadlink": "https://mesinkasir.github.io/larapos/e-catalog/TOUCHSCREEN POS.pdf"
+  "titleabout": "About Augusta Limo Car Online",
+  "descabout": "About Us Augusta Limo Car Service Augusta, GA",
+  "titlecontact": "Contact Augusta Limo Car Online",
+  "desccontact": "Contact Augusta Limo Car Service Augusta, GA"
 }
