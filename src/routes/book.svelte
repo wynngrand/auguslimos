@@ -9,14 +9,14 @@
 
 <svelte:head>
 			 <title>{data.title}</title> 
-<meta content={data.title} property='og:title'/>
-<meta content={data.title} name='facebook:title'/>
-<meta content={data.title} name='twitter:title'/>
-<meta content={data.title} name='keywords'/>
-<meta content={data.title} property='og:site_name'/>
-<meta content={data.desc} name="description"/>
-<meta content={data.desc} name='twitter:description'/>
-<meta content={data.desc} name='facebook:description'/>
+<meta content={data.titlebook} property='og:title'/>
+<meta content={data.titlebook} name='facebook:title'/>
+<meta content={data.titlebook} name='twitter:title'/>
+<meta content={data.titlebook} name='keywords'/>
+<meta content={data.titlebook} property='og:site_name'/>
+<meta content={data.descbook} name="description"/>
+<meta content={data.descbook} name='twitter:description'/>
+<meta content={data.descbook} name='facebook:description'/>
 <meta content='summary_large_image' name='twitter:card'/>
 <meta content='https://twitter.com/hockeycomp' property='twitter:author'/>
 <meta content='https://www.facebook.com/mesinkasircomplete' property='facebook:author'/>
