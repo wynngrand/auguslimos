@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-			 <title>{data.title}</title> 
+			 <title>{data.titlebook}</title> 
 <meta content={data.titlebook} property='og:title'/>
 <meta content={data.titlebook} name='facebook:title'/>
 <meta content={data.titlebook} name='twitter:title'/>
@@ -31,7 +31,7 @@
 </svelte:head>
 <Intro/>
 <div class="col-md-12 p-3 text-center">
-<h1>{data.title}</h1>
+<h1>{data.titlebook}</h1>
 </div>
      <div class="col-md-6 offset-md-3 p-3 p-md-5 mt-3" id="book">
           <iframe id ='booking-frame' width = '100%' frameBorder = '0' src = 'https://account.chauffeurbookingsoftware.com/book/1/123fd7f0-ff6c-4a9d-80fb-05c694c9ed03' style="margin:auto;">
