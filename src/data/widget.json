@@ -3,7 +3,7 @@
   "menu1": "Home",
   "url1": "/",
   "menu2": "Book Now",
-  "url2": "/book#book",
+  "url2": "/",
   "menu3": "Contact",
   "url3": "/contact",
   "contact": "Contact Us",
