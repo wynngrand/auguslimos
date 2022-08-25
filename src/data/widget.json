@@ -1,9 +1,9 @@
 {
   "title": "Augusta Limousine Augusta, GA",
   "menu1": "Home",
-  "url1": "/book#book",
+  "url1": "/",
   "menu2": "Book Now",
-  "url2": "/",
+  "url2": "/book#book",
   "menu3": "Contact",
   "url3": "/contact",
   "contact": "Contact Us",
