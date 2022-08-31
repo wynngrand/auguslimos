@@ -8,6 +8,9 @@
 </script>
 
 <svelte:head>
+	<title>Contact Us</title>
+	<meta name="description" content="contact augusta limousine"/>
+	<!--
 			 <title>{data.titlecontact}</title> 
 <meta content={data.titlecontact} property='og:title'/>
 <meta content={data.titlecontact} name='facebook:title'/>
@@ -28,6 +31,7 @@
 <meta content='https://www.fiverr.com/creativitas' property='og:author'/>
 <meta content='website' property='og:type'/>
 <meta content='index, follow' name='robots'/>
+-->
 </svelte:head>
 <Intro/>
 <div class="col-md-12 p-3 text-center">
