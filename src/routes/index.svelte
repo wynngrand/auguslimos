@@ -8,6 +8,9 @@
 
 
 <svelte:head>
+	<title>{data.title}</title>
+<meta content={data.desc} name='description'/>
+	<!--
 			 <title>{data.title}</title> 
 <meta content={data.title} property='og:title'/>
 <meta content={data.title} name='facebook:title'/>
@@ -28,6 +31,7 @@
 <meta content='Mesin Kasir' property='og:author'/>
 <meta content='website' property='og:type'/>
 <meta content='index, follow' name='robots'/>
+-->
 </svelte:head>
 
 <section>
