@@ -8,6 +8,9 @@
 </script>
 
 <svelte:head>
+	<title>Booked Augusta Limousine</title>
+	<meta name="description" content="Booked Now"/>
+	<!--
 			 <title>{data.titlebook}</title> 
 <meta content={data.titlebook} property='og:title'/>
 <meta content={data.titlebook} name='facebook:title'/>
@@ -28,6 +31,7 @@
 <meta content='https://www.fiverr.com/creativitas' property='og:author'/>
 <meta content='website' property='og:type'/>
 <meta content='index, follow' name='robots'/>
+-->
 </svelte:head>
 <Intro/>
 <div class="col-md-12 p-3 text-center">
