@@ -8,8 +8,9 @@
 </script>
 
 <svelte:head>
-	<title>Contact Us</title>
-	<meta name="description" content="contact augusta limousine"/>
+	<title>{data.titlecontact}</title>
+	<meta name="description" content="{data.desccontact}"/>
+	<link rel="canonical" href="https://www.augustalimoservice.com/contact" />
 	<!--
 			 <title>{data.titlecontact}</title> 
 <meta content={data.titlecontact} property='og:title'/>
