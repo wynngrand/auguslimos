@@ -8,8 +8,9 @@
 </script>
 
 <svelte:head>
-	<title>Booked Augusta Limousine</title>
-	<meta name="description" content="Booked Now"/>
+	<title>{data.titlebook}</title>
+	<meta name="description" content="{data.descbook}"/>
+	<link rel="canonical" href="https://www.augustalimoservice.com/book" />
 	<!--
 			 <title>{data.titlebook}</title> 
 <meta content={data.titlebook} property='og:title'/>
