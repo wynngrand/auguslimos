@@ -3,7 +3,7 @@
   "menu1": "Home",
   "url1": "/",
   "menu2": "Book Now",
-  "url2": "/book#book",
+  "url2": "https://account.chauffeurbookingsoftware.com/book-trip/123fd7f0-ff6c-4a9d-80fb-05c694c9ed03/#/",
   "menu3": "Contact",
   "url3": "/contact",
   "contact": "Contact Us",
